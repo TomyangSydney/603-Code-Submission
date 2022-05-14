@@ -46,8 +46,8 @@ double errors[NDOF];
 double time;
 {
 	// printf("Hello \n");
-	printf("Search called, errors passed in is:  \n");
-	print_errors(errors);
+	// printf("Search called, errors passed in is:  \n");
+	// print_errors(errors);
 	int i;
 	int search_status = NO_REFERENCE;
 	static double heading;
@@ -60,10 +60,10 @@ double time;
 	// still in the transient to the last sample direction
 	// if (((heading - roger->base_position[THETA]) >=  0.01) || ((heading - roger->base_position[THETA]) <= -0.01)) {
 	if (fabs(roger->base_setpoint[THETA] - roger->base_position[THETA]) > 0.1) {
-		printf("Search in transient. \n");
+		// printf("Search in transient. \n");
 		search_status = TRANSIENT;
 		base_error = heading - roger->base_position[THETA]; // roger->base_setpoint[THETA] - roger->base_position[THETA];
-		printf("In transient, sample heading is: %f   error is: %f \n", heading, base_error);
+		// printf("In transient, sample heading is: %f   error is: %f \n", heading, base_error);
 		while (base_error > M_PI) {
 			base_error -= 2*M_PI;
 		}
@@ -75,8 +75,8 @@ double time;
 		errors[1] = base_error;
 		errors[2] = eye_error;
 		errors[3] = eye_error;
-		printf("In search: error array is: \n");
-		print_errors(errors); 
+		// printf("In search: error array is: \n");
+		// print_errors(errors); 
 		return search_status;
 
 	// if the last search finished, set the setpoint and prepare to do a new search
@@ -84,10 +84,10 @@ double time;
 		// printf("here, heading error is: %f \n", abs(heading - roger->base_position[THETA]));
 		double* headingPtr = &heading;
 		sample_result = sample_gaze_direction(headingPtr);
-		if (sample_result == FALSE) {
-			printf("Something wrong in sampe_gaze_direction. \n");
-		}
-		printf("In Search, do a sampling. \n");
+		// if (sample_result == FALSE) {
+		// 	printf("Something wrong in sampe_gaze_direction. \n");
+		// }
+		// printf("In Search, do a sampling. \n");
 		base_error = *headingPtr - roger->base_position[THETA];
 		while (base_error > M_PI) {
 			base_error -= 2*M_PI;
@@ -104,8 +104,8 @@ double time;
 	// printf("In search: error array is: \n");
 	// print_errors(errors); 
 
-	printf("Search finished, errors obtained is: . \n");
-	print_errors(errors); 
+	// printf("Search finished, errors obtained is: . \n");
+	// print_errors(errors); 
 
 	// DO STUFF
 	return search_status;
@@ -166,14 +166,14 @@ Robot* roger;
 double errors[NDOF];
 double time;
 {
-	printf("Track called, errors passed in is: \n");
-	print_errors(errors);
+	// printf("Track called, errors passed in is: \n");
+	// print_errors(errors);
 	static int track_status = NO_REFERENCE;
 	double base_error = 0.0;
 	int ul = -1, ur = -1;
 	ul = average_red_pixel(roger, LEFT, roger->image[LEFT]);
 	ur = average_red_pixel(roger, RIGHT, roger->image[RIGHT]);
-	printf("ul is: %d,   ur is: %d  \n", ul, ur);
+	// printf("ul is: %d,   ur is: %d  \n", ul, ur);
 	if (ul == -1 || ur == -1) {
 		// printf("track no reference \n");
 		// printf("In track: error array is: \n");
@@ -256,8 +256,8 @@ double time;
 		track_status = TRANSIENT;
 	}
 
-	printf("Track finished, errors array is: \n");
-	print_errors(errors); 
+	// printf("Track finished, errors array is: \n");
+	// print_errors(errors); 
 
 	return track_status;
 }
@@ -273,8 +273,8 @@ Robot* roger;
 double errors[NDOF];
 double time;
 {
-	printf("In SearchTrack, errors passed in is:  \n");
-	print_errors(errors);
+	// printf("In SearchTrack, errors passed in is:  \n");
+	// print_errors(errors);
 	int i, state, return_state, internal_state[NACTIONS_4]; 
 	// // double search_errors[NDOF], track_errors[NDOF];
 
@@ -347,16 +347,16 @@ double time;
 		// printf("State is: %d \n", state);
 	}
 
-	printf("In SearchTrack, State is: %d \n", state);
+	// printf("In SearchTrack, State is: %d \n", state);
 	// printf("current state is: %d \n", state);
 	// get the greedy (largest q-value) action to perform based on the q-table
 	selected_action = GetActionGreedy(state, proj_four_q_table, NACTIONS_4);
-	printf("In SearchTrack, action index chosen is: %d \n", selected_action);
+	// printf("In SearchTrack, action index chosen is: %d \n", selected_action);
 	copy_errors(action_errors[selected_action], errors);
 	// actions[selected_action];
 
-	printf("In SearchTrack, the erros finally obtainbed is: \n");
-	print_errors(errors);
+	// printf("In SearchTrack, the erros finally obtainbed is: \n");
+	// print_errors(errors);
 	// handle setting the return state
     // TODO: define your own skill's return status based on the state
 	if (state == 1 || state == 4 || state == 7) {
@@ -390,13 +390,13 @@ double time;
 	/******** Code outline for testing HAND-DESIGNED composite actions ********/
 	double errors[NDOF] = {0.0};
 	int result = SearchTrack(roger, errors, time);
-	if (result == NO_REFERENCE) {
-		printf("Search Track in No REF \n");
-	}else if (result == TRANSIENT) {
-		printf("Search Track in Transient \n");
-	}else {
-		printf("Search Track in Converged \n");
-	}
+	// if (result == NO_REFERENCE) {
+	// 	printf("Search Track in No REF \n");
+	// }else if (result == TRANSIENT) {
+	// 	printf("Search Track in Transient \n");
+	// }else {
+	// 	printf("Search Track in Converged \n");
+	// }
 	// printf("After composite action: error array is: \n");
 	// print_errors(errors); 
 	submit_errors(roger, errors);

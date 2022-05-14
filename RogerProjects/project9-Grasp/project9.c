@@ -165,7 +165,7 @@ double time;
 	// 	errors[i] = 0.0;
 	// }
 
-	// printf("TFClosure called. \n");
+	printf("TFClosure called. \n");
 
 	// get the estimated position of the ball (in world coordinates)
 	//    if your implementation doesn't work, try figuring it out on your own first
@@ -321,20 +321,17 @@ double time;
 		//    arm errors for a predefine "home" position)
 		// home_arms(roger, errors, time);
 
-		printf("Can't see the ball in TFClosure, do a SearchTrack. \n");
+		// printf("Can't see the ball in TFClosure, do a SearchTrack. \n");
+		// also home the arm if not all contacts are established. 
 		double dummy_errors[NDOF] = {0.0};
 		int search_track_status = SearchTrack(roger, dummy_errors, time);
 		// printf("In VFClosure, can't reach it. home the arm position\n");
 		// SearchTrack(roger, dummy_errors, time);
-
-		if (obs_result == false) {
-			printf("In TFClosure, home the arms. \n");
-			home_arms(roger, dummy_errors, time);
-		}
+		home_arms(roger, dummy_errors, time);
 		
-		printf("Either can't see the ball or not three contacts are established. \n");
-		printf("summy_errors are: \n");
-		print_errors(dummy_errors);
+		// printf("Either can't see the ball or not three contacts are established. \n");
+		// printf("summy_errors are: \n");
+		// print_errors(dummy_errors);
 		copy_errors(dummy_errors, errors); 
 	}
 
@@ -372,7 +369,7 @@ double time;
 	// get the estimated position of the ball (in world coordinates)
 	//    if your implementation doesn't work, try figuring it out on your own first
 	//        and if you can't email Oscar
-	printf("Stero called in VFClosure. \n");
+	// printf("Stero called in VFClosure. \n");
 	obs_result = stereo_observation(roger, &obs, time);
 
 	// if we see the ball try to form a FClosure Grasp on the ball
@@ -470,7 +467,7 @@ double time;
 		
 		// TODO --- add your own eye tracking/foveation function here!!!
 		//    IMPORTANT!! BE sure to declare you function at the top of the file
-		printf("See the ball in VFClosure, Doing track\n");
+		// printf("See the ball in VFClosure, Doing track\n");
 		int track_status = Track(roger, dummy_errors, time);
 		// set arms
 		//    if your implementation doesn't work, try figuring it out on your own first
@@ -490,13 +487,13 @@ double time;
 			if (track_status == CONVERGED) {
 				add_error_arrays(larm_errors, rarm_errors, dummy_errors);
 				copy_errors(dummy_errors, errors);
-				printf("In VFClousre, track converaged. Error is:  \n");
-				print_errors(errors);
+				// printf("In VFClousre, track converaged. Error is:  \n");
+				// print_errors(errors);
 				// submit_errors(roger, errors, time);
 			}else if (track_status == TRANSIENT){
 				copy_errors(dummy_errors, errors);
-				printf("In VFClosure, track not converged yet, errors is:  \n");
-				print_errors(errors);
+				// printf("In VFClosure, track not converged yet, errors is:  \n");
+				// print_errors(errors);
 			}
 		}
 	} // end of transient/converged if statement
@@ -506,20 +503,20 @@ double time;
 		// TODO put code to home arms here (I used a standalone function to submit
 		//    arm errors for a predefine "home" position)
 		double dummy_errors[NDOF] = {0.0};
-		printf("Call SearchTrack in VFClosure. \n");
+		// printf("Call SearchTrack in VFClosure. \n");
 		int search_track_status = SearchTrack(roger, dummy_errors, time);
-		printf("After SearchTrack called in VFClosure, the dummy_errors array is: \n");
-		print_errors(dummy_errors);
+		// printf("After SearchTrack called in VFClosure, the dummy_errors array is: \n");
+		// print_errors(dummy_errors);
 		// printf("In VFClosure, can't reach it. home the arm position\n");
 		home_arms(roger, dummy_errors, time);
-		printf("After home_arms called after SearchTrack in VFClosure, the dummy_errors array is: \n");
-		print_errors(dummy_errors);
+		// printf("After home_arms called after SearchTrack in VFClosure, the dummy_errors array is: \n");
+		// print_errors(dummy_errors);
 		copy_errors(dummy_errors, errors); 
 	}
 	// submit_errors(roger, errors, time);
 
-	printf("VFClosure execution finished, errors obtained is: \n");
-	print_errors(errors);
+	// printf("VFClosure execution finished, errors obtained is: \n");
+	// print_errors(errors);
 
 	return return_state;
 	
@@ -729,7 +726,7 @@ double time;
 	//     i.e. eps_min = 0.2 and eps_max = 0.6 results in a final eps value of 0.8
 	//     eps is the probability of a greedy action
     double eps_min = 0.2, eps_max = 0.6;
-    int max_time_per_episode = 2000;                 // maximum number of time-steps per episode
+    int max_time_per_episode = 2500;                 // maximum number of time-steps per episode
     int num_episodes = 400;                         // number of training episodes
 
     // learn a policy, saves off a q-table file after every episode
@@ -746,24 +743,24 @@ double time;
 	// printf("After q-learning, error is:  \n");
     // print_errors(errors);
 	
-	/******** Code outline for loading and testing previously learned composite actions ********/
+	// /******** Code outline for loading and testing previously learned composite actions ********/
   	static int policy_loaded = 0;     // track if the policy has already been loaded
 	int q_table_num = 9;            // q_table episode number to load
 	
-    // // load a learned policy
-    // if (policy_loaded == 0) {
-	// 	LoadLearnedQTable(q_table_num, proj_X_q_table, NSTATES, NACTIONS, Q_TABLE_FILE);
-	// 	policy_loaded = 1;
-	// }
+    // // // load a learned policy
+    // // if (policy_loaded == 0) {
+	// // 	LoadLearnedQTable(q_table_num, proj_X_q_table, NSTATES, NACTIONS, Q_TABLE_FILE);
+	// // 	policy_loaded = 1;
+	// // }
 
-    // // exploit the learned policy
-	// Run_Policy(roger, time, actions, rewards, default_reward, NACTIONS, NSTATES, reward_num, proj_X_q_table);
-	/************************************************************/
+    // // // exploit the learned policy
+	// // Run_Policy(roger, time, actions, rewards, default_reward, NACTIONS, NSTATES, reward_num, proj_X_q_table);
+	// /************************************************************/
 
-	/******** Code outline for collecting performance data for learned composite actions ********/
+	// /******** Code outline for collecting performance data for learned composite actions ********/
 	static int action_calls[NACTIONS]; // a static array for tracking action call counts
 	char* performance_data_file_path = "./perf_data/performance_data.csv";  // path to folder to save performance data CSV
-	int num_trails = 20;                // number of data collection trials to run
+	int num_trails = 50;                // number of data collection trials to run
 
 	// load a learned policy
 	//   q_table_num is the same as used in Run_Policy

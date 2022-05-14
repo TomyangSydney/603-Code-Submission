@@ -134,16 +134,16 @@ double time;
 {
 
 	printf("Chase called, errors passed in is: .\n");
-	print_errors(errors);
+	// print_errors(errors);
 
 	// for (int i = 0; i < NDOF; i++) {
 	// 	errors[i] = 0.0;
 	// }
-	printf("SearchTrack called in Chase. \n");
+	// printf("SearchTrack called in Chase. \n");
 	int search_track_result = SearchTrack(roger, errors, time);
 	// printf("In Chase, after searchTrack:  Translation error:  %f     Rotation error:  %f     \n", errors[0], errors[1]);
-	printf("After search track, error is: \n");
-	print_errors(errors);
+	// printf("After search track, error is: \n");
+	// print_errors(errors);
 	
 	if ( search_track_result != NO_REFERENCE) {
 
@@ -156,9 +156,9 @@ double time;
 		}
 		// printf("In Chase, red ball detected\n");
 
-		printf("stereo called in Chase. \n");
+		// printf("stereo called in Chase. \n");
 		if (stereo_observation(roger, &obs, time)) {
-			printf("found ball in Chase. \n");
+			// printf("found ball in Chase. \n");
 			double ball_x = obs.pos[X];
 			double ball_y = obs.pos[Y];
 			
@@ -189,17 +189,20 @@ double time;
 
 
 			double distance_to_ball = sqrt(error_x*error_x + error_y*error_y);  // trans_error; // sqrt(error_x*error_x + error_y*error_y); 
-			// printf("In Chase, distance to ball is: %f\n", distance_to_ball); 
-			// printf("In Chase, angle differnce is: %f \n", fabs(roger->base_setpoint[THETA] - roger->base_position[THETA]));
-			if (distance_to_ball < 0.85 && fabs(roger->base_setpoint[THETA] - roger->base_position[THETA]) <= 0.1) {
+			printf("In Chase, distance to ball is: %f\n", distance_to_ball); 
+			printf("In Chase, angle differnce is: %f \n", fabs(roger->base_setpoint[THETA] - roger->base_position[THETA]));
+			if ((distance_to_ball < 1.0) && (fabs(roger->base_setpoint[THETA] - roger->base_position[THETA]) <= 1.0)) {
 				printf("In Chase, in CONVERGED.\n");
+				errors[0] = 0.0;
+				errors[1] = roger->base_setpoint[THETA] - roger->base_position[THETA];
 				return CONVERGED;
 			}else {
 				double angle_diff = atan2(error_y, error_x + 0.001);
 				double chasing_x_diff = (distance_to_ball)*cos(angle_diff);
 				double chasing_y_diff = (distance_to_ball)*sin(angle_diff);
 				errors[0] = sqrt(chasing_x_diff * chasing_x_diff + chasing_y_diff * chasing_y_diff);
-				printf("In Chase, calculate translational error. \n");
+				home_arms(roger, errors, time);
+				// printf("In Chase, calculate translational error. \n");
 			}
 			// rotational error
 			// roger->base_setpoint[THETA] = atan2(error_y, error_x + 0.0001);
@@ -217,15 +220,15 @@ double time;
 			// 	return CONVERGED;
 			// }
 		}else {
-			printf("No sterero vision in Chase, errors is \n");
-			print_errors(errors);
-			printf("Eyes see: %f %f \n", obs.pos[X], obs.pos[Y]);
+			// printf("No sterero vision in Chase, errors is \n");
+			// print_errors(errors);
+			// printf("Eyes see: %f %f \n", obs.pos[X], obs.pos[Y]);
 		}
 	}else {
 		home_arms(roger, errors, time);
 		// submit_errors(errors);
-		printf("In Chase, Ball not detected, still searching it, errors obtained is \n");
-		print_errors(errors);
+		// printf("In Chase, Ball not detected, still searching it, errors obtained is \n");
+		// print_errors(errors);
 		return NO_REFERENCE;
 	}
 
@@ -238,22 +241,24 @@ double errors[NDOF];
 double time;
 {
 	printf("Touch called, error passed in is: \n");
-	print_errors(errors);
-	static int touch_status = NO_REFERENCE;
+	// print_errors(errors);
+	static int touch_status;
 
 	// for (int i = 0; i < NDOF; i++) {
 	// 	errors[i] = 0.0;
 	// }
 
-	printf("SearchTrack called in Touch. \n");
+	// printf("SearchTrack called in Touch. \n");
 	int track_result =  SearchTrack(roger, errors, time);
-	printf("After search track, error is: \n");
-	print_errors(errors);
+	// printf("After search track, error is: \n");
+	// print_errors(errors);
 	
+	
+
 	if (track_result != NO_REFERENCE) {
 		// try to get the ball position in world frame
 		// refer the implementation from project 9
-		printf("stereo called in Touch. \n");
+		// printf("stereo called in Touch. \n");
 		bool obs_result = stereo_observation(roger, &obs, time);
 		
 		double wTb[4][4] = {0.0}, ref_b_l[4] = {0.0}, ref_w_l[4] = {0.0}, ref_b_r[4] = {0.0}, ref_w_r[4] = {0.0};
@@ -261,17 +266,23 @@ double time;
 		double errors_copy[NDOF] = {0.0};
 		if (obs_result) {
 			// check if both arms are in the range
-			printf("Track called in Touch. \n");
+			// printf("Track called in Touch. \n");
 			// int track_result = Track(roger, errors, time);
+
+			
+			// calculate inv arm kinematics ansd pass it to errors array
 			int is_left_in_range = inv_arm_kinematics_errors(roger, LEFT, obs.pos[X], obs.pos[Y], leftarm_errors);
 			int is_right_in_range = inv_arm_kinematics_errors(roger, RIGHT, obs.pos[X], obs.pos[Y], rightarm_errors);
 			add_error_arrays(leftarm_errors, rightarm_errors, botharms_errors);
 			add_error_arrays(botharms_errors, errors, errors);
 			// copy_errors(botharms_errors, errors);
 
+			
 			if (!is_left_in_range && !is_right_in_range) {
 				// printf("In touch, arm out of range. \n");
+				// home arms
 				home_arms(roger, errors, time);
+				touch_status = NO_REFERENCE;
 				return NO_REFERENCE;
 			}
 
@@ -315,9 +326,21 @@ double time;
 			double roger_hands_y_diff = left_y - right_y;
 			double hands_distance = sqrt(roger_hands_x_diff*roger_hands_x_diff + roger_hands_y_diff*roger_hands_y_diff);
 
-			if (((fabs(roger->ext_force[LEFT][0]) > 0) || (fabs(roger->ext_force[LEFT][1]) > 0))){
+			// calculate the difference between the roger base and the ball 
+
+			double ball_x = obs.pos[X];
+			double ball_y = obs.pos[Y];
+			double error_x = obs.pos[X] - roger->base_position[X];
+			// printf("World ball position is:  %f %f\n", obs.pos[X], obs.pos[Y]);
+			// printf("World roger position is: %f %f\n", roger->base_position[X], roger->base_position[Y]);
+			// printf("error_x: %f \n", error_x);
+			double error_y = obs.pos[Y] - roger->base_position[Y];
+			// printf("error_y: %f \n", error_y);
+			double distance_to_ball = sqrt(error_x*error_x + error_y*error_y); 
+
+			if (((fabs(roger->ext_force[LEFT][0]) > 0) || (fabs(roger->ext_force[LEFT][1]) > 0)) && dist_to_ball_l < 0.3){
 				touch_status = CONVERGED;
-				printf("Touch converged. \n");
+				// printf("Touch converged. \n");
 				// if (hands_distance > 0.28) {
 				// 	printf("Touch converged. \n");
 					
@@ -325,9 +348,9 @@ double time;
 				// 	printf("Left hand touched right hand. \n");
 				// }
 				
-			}else if ((fabs(roger->ext_force[RIGHT][0]) > 0 || fabs(roger->ext_force[RIGHT][1]) > 0) ) {
+			}else if ((fabs(roger->ext_force[RIGHT][0]) > 0 || fabs(roger->ext_force[RIGHT][1]) > 0) && dist_to_ball_r < 0.3) {
 				touch_status = CONVERGED;
-				printf("Touch converged. \n");
+				// printf("Touch converged. \n");
 				// if (hands_distance > 0.28) {
 				// 	printf("Touch converged. \n");
 				// 	touch_status = CONVERGED;
@@ -336,16 +359,17 @@ double time;
 				// }
 			}
 		}else {
-			printf("No sterero vision in Touch, errors is \n");
-			print_errors(errors);
-			printf("Eyes see: %d %d \n", obs.pos[X], obs.pos[Y]);
+			// printf("No sterero vision in Touch, errors is \n");
+			// print_errors(errors);
+			// printf("Eyes see: %d %d \n", obs.pos[X], obs.pos[Y]);
+			home_arms(roger, errors, time);
 		}
 		
 	}else {
 		// printf("In touch, can't see the red ball\n");
 		home_arms(roger, errors, time);
-		printf("In Touch, Ball not detected, still searching it, errors obtained is \n");
-		print_errors(errors);
+		// printf("In Touch, Ball not detected, still searching it, errors obtained is \n");
+		// print_errors(errors);
 	}
 	// printf("In Touch part, error is: \n");
 	// print_errors(errors);
@@ -359,8 +383,8 @@ double errors[NDOF];
 double time;
 {
 
-	printf("ChaseTouch called, error passed in is: \n");
-	print_errors(errors);
+	// printf("ChaseTouch called, error passed in is: \n");
+	// print_errors(errors);
 	int i, state, return_state, internal_state[NACTIONS]; 
 	// // double search_errors[NDOF], track_errors[NDOF];
 
@@ -441,14 +465,14 @@ double time;
 	// get the greedy (largest q-value) action to perform based on the q-table
 	selected_action = GetActionGreedy(state, proj_seven_q_table, NACTIONS);
 
-	if (selected_action == 1) {
-		printf("In ChaseTouch, action chosen is Chase, index chosen is: %d \n", selected_action);
-	}else {
-		printf("In ChaseTouch, action chosen is Touch, index chosen is: %d \n", selected_action);
-	}
+	// if (selected_action == 1) {
+	// 	printf("In ChaseTouch, action chosen is Chase, index chosen is: %d \n", selected_action);
+	// }else {
+	// 	printf("In ChaseTouch, action chosen is Touch, index chosen is: %d \n", selected_action);
+	// }
 
-	printf("In ChaseTouch, errors obtained from selected action is: \n");
-	print_errors(action_errors[selected_action]);
+	// printf("In ChaseTouch, errors obtained from selected action is: \n");
+	// print_errors(action_errors[selected_action]);
 	// printf("In ChaseTouch, action index chosen is: %d \n", selected_action);
 	copy_errors(action_errors[selected_action], errors);
 	// actions[selected_action];

@@ -414,7 +414,7 @@ int (*reset_func)(Robot* roger, double time, int state, int internal_state[], in
 
     // explore vs. exploit loops
     if (explore) {
-		// printf("Inside explore loop\n");
+		printf("Inside explore loop\n");
         // if we are finished learning, generate the last policy and then switch to exploit mode
 		if (num_expisodes_completed >= num_episodes) {
 			GeneratePolicy(policy, q_table, num_states, num_actions);
