@@ -1,0 +1,175 @@
+int VFClosure(roger, errors, time)
+Robot * roger;
+double errors[NDOF];
+double time;
+{
+	int return_state = NO_REFERENCE;
+	double left[2], right[2], base[2];
+    double st_errors[NDOF], chase_errors[NDOF];
+    double larm_errors[NDOF], rarm_errors[NDOF];
+	int obs_result = 0;
+	int i;
+	double wTb[4][4] = {0.0}, ref_bl[4] = {0.0}, ref_wl[4] = {0.0}, ref_br[4] = {0.0}, ref_wr[4] = {0.0};
+	double lx = 0, ly = 0, rx = 0, ry = 0;
+	double estimated_theta[3];
+
+	double botharms_errors[NDOF] = {0.0};
+	// printf("VFClosure called, errors are:    \n");
+	// print_errors(errors);
+	// first do no harm
+	// for (i=0; i<NDOF; ++i) {
+	// 	errors[i] = 0.0;
+	// }
+
+	// get the estimated position of the ball (in world coordinates)
+	//    if your implementation doesn't work, try figuring it out on your own first
+	//        and if you can't email Oscar
+	obs_result = stereo_observation(roger, &obs, time);
+
+	// if we see the ball try to form a FClosure Grasp on the ball
+	if (obs_result) {
+		return_state = TRANSIENT;
+
+		// Dr. Grupen mentioned in class that you can do all these calculation in base-frame
+		//     but my solution has always just used world, you can do whatever
+
+		// estimate theta_1
+		construct_wTb(roger->base_position, wTb);
+		fwd_arm_kinematics(roger, LEFT, &lx, &ly);
+		ly += ARM_OFFSET;
+		ref_bl[0] = lx;
+		ref_bl[1] = ly;
+		ref_bl[2] = 0.0;
+		ref_bl[3] = 1.0;
+		matrix_mult(4, 4, wTb, 1, ref_bl, ref_wl);
+
+		// estimate theta_2
+		construct_wTb(roger->base_position, wTb);
+		fwd_arm_kinematics(roger, RIGHT, &rx, &ry);
+		ry -= ARM_OFFSET;
+		ref_br[0] = rx;
+		ref_br[1] = ry;
+		ref_br[2] = 0.0;
+		ref_br[3] = 1.0;
+		matrix_mult(4, 4, wTb, 1, ref_br, ref_wr);
+
+		// estimate theta 0 visually based on Roger's position in the world frame
+		estimated_theta[0] =  M_PI + atan2(obs.pos[1] - roger->base_position[1], obs.pos[0] - roger->base_position[0]);
+
+		// estimate theta 1 visually based on Roger's position in the world frame
+		estimated_theta[1] =  M_PI + atan2(obs.pos[1]-ref_wl[1], obs.pos[0]-ref_wl[0]);
+
+		// estimate theta 2 visually based on Roger's position in the world frame
+		estimated_theta[2] =  M_PI + atan2(obs.pos[1]-ref_wr[1], obs.pos[0]-ref_wr[0]);
+
+		// variables needed for navigation function/error calculation
+		double j[2], del_theta[2], kappa;
+		double new_theta[2], l_pos[2], r_pos[2];
+		double j_p_inv[2] = {0.0};
+		double j_fm[2] = {0.0};
+		
+		// set te kappa, gradient descent step-size
+		kappa = 0.001;
+
+		// the closed form solutions to the navigation function used
+		//     to control arm contacts
+		phi_wv = 3 + 2*cos(estimated_theta[0] - estimated_theta[1]) + 2*cos(estimated_theta[0] - estimated_theta[2]) + 2*cos(estimated_theta[1] - estimated_theta[2]);
+
+		// calculate the control jacobian used in calculations
+		j[0] = 2*(sin(estimated_theta[0] - estimated_theta[1]) - sin(estimated_theta[1] - estimated_theta[2]));;
+		j[1] = 2*(sin(estimated_theta[0] - estimated_theta[1]) - sin(estimated_theta[1] - estimated_theta[2]));;
+
+		// get the Penrose pusedo-inverse of the jacobian
+		double j_jT_inv = 1.0/(j[0]*j[0] + j[1]*j[1]);
+		j_p_inv[0] = j[0]*j_jT_inv;
+		j_p_inv[1] = j[1]*j_jT_inv;
+
+		// calculate the change in angle value needed for control (perform gradient descent)
+		del_theta[0] = -kappa*j_p_inv[0]*phi_wt;
+		del_theta[1] = -kappa*j_p_inv[1]*phi_wt;
+		
+		// get the new value of the desired angle based on the del_theta update
+		new_theta[0] = estimated_theta[1] + del_theta[0];
+		new_theta[1] = estimated_theta[2] + del_theta[1];
+
+		// Radius of the ball, slightly larger than the ball + rogers hand to avoid hitting it 
+		//    while pre-shaping
+		double R = R_BALL + R_TACTILE + 0.1;
+
+		// updates to the left hand's desired location
+		left[0] = obs.pos[0] + R*cos(new_theta[0]);
+		left[1] = obs.pos[1] + R*sin(new_theta[0]);
+
+		// updates to the right hand's desired location
+		right[0] = obs.pos[0] + R*cos(new_theta[1]);
+		right[1] = obs.pos[1] + R*sin(new_theta[1]);
+
+		// state will be converged if all three contact points are touching AND
+		//     the navigation function is below a threshold.
+		//     you can play with the threshold value below, 1.0 is arbirtary
+		//         will need to be much larger than in the tactile version  
+		if (phi_wv < 1.0) {
+			// submit_errors(errors);
+			return_state = CONVERGED;
+		}
+
+	} // end if (observation == True) block 
+
+	// check if the state is not no_reference
+	if (return_state != NO_REFERENCE) {
+		double dummy_errors[NDOF] = {0.0};
+		
+		// TODO --- add your own eye tracking/foveation function here!!!
+		//    IMPORTANT!! BE sure to declare you function at the top of the file
+		// printf("See the ball in VFClosure, Doing search track\n");
+		int track_status = Track(roger, dummy_errors, time);
+		// set arms
+		//    if your implementation doesn't work, try figuring it out on your own first
+		//        and if you can't email Oscar
+		int l_in_range = inv_arm_kinematics_errors(roger, LEFT, left[0], left[1], larm_errors);
+		int r_in_range = inv_arm_kinematics_errors(roger, RIGHT, right[0], right[1], rarm_errors);
+
+		// if the arms are out of range don't try to move them
+		//    you can remove this check if you want to try that
+		if (l_in_range == FALSE || r_in_range == FALSE) {
+			// printf("In VFClosure, arm is out of range. \n");
+			copy_errors(dummy_errors, errors);
+			home_arms(roger, errors, time);
+			return_state = NO_REFERENCE;
+		} else {
+			// add the desired arm setpoints to errors array
+			if (track_status == CONVERGED) {
+				add_error_arrays(larm_errors, rarm_errors, dummy_errors);
+				copy_errors(dummy_errors, errors);
+				printf("In VFClousre, track converaged. Error is:  \n");
+				print_errors(errors);
+				// submit_errors(roger, errors, time);
+			}else {
+				copy_errors(dummy_errors, errors);
+				printf("In VFClosure, track not converged yet, errors is:  \n");
+				print_errors(errors);
+			}
+		}
+	} // end of transient/converged if statement
+	else {
+		// !!!!!!!!!!!!!!!!!!!!!!!!!!!! TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+		// home the arms if not transient or converged
+		// TODO put code to home arms here (I used a standalone function to submit
+		//    arm errors for a predefine "home" position)
+		double dummy_errors[NDOF] = {0.0};
+		int search_track_status = SearchTrack(roger, dummy_errors, time);
+		// printf("In VFClosure, can't reach it. home the arm position\n");
+		SearchTrack(roger, errors, time);
+		home_arms(roger, dummy_errors, time);
+		copy_errors(dummy_errors, errors); 
+		// printf("Search called in VFClosure. \n");
+		// submit_errors(roger, errors, time);
+	}
+	// submit_errors(roger, errors, time);
+
+	// printf("VFClosure execution finished, errors obtained is: \n");
+	// print_errors(errors);
+
+	return return_state;
+	
+}

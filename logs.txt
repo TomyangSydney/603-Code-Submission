@@ -1,0 +1,5969 @@
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000030  0.000015  0.000015  -0.000237  -0.000006  -0.000019  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000030  0.000015  0.000015  -0.000236  -0.000006  -0.000019  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000030  0.000015  0.000015  -0.000236  -0.000006  -0.000019  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000030  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000030  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000029  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000029  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000029  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000029  0.000015  0.000015  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000029  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000236  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000006  -0.000018  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000006  -0.000018  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000028  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000027  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000027  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000027  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000027  0.000014  0.000014  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000027  0.000013  0.000013  -0.000235  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000017  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000017  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000026  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000005
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000013  0.000013  -0.000234  -0.000005  -0.000016  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000016  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000016  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000016  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000016  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000025  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000024  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000233  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000232  -0.000005  -0.000015  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000232  -0.000005  -0.000015  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000232  -0.000005  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000012  0.000012  -0.000232  -0.000005  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000023  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000022  0.000011  0.000011  -0.000232  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000014  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000014  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000011  0.000011  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000021  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000231  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000013  -0.000004
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000013  -0.000004
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000020  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000010  0.000010  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000019  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000230  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000012  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000012  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000004  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000018  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000009  0.000009  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000229  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000228  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000228  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000228  -0.000003  -0.000011  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000017  0.000008  0.000008  -0.000228  -0.000003  -0.000011  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000016  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000228  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000227  -0.000003  -0.000010  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000008  0.000008  -0.000227  -0.000003  -0.000010  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000015  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000003
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000014  0.000007  0.000007  -0.000227  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000009  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000009  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000007  0.000007  -0.000226  -0.000003  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000003  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000003  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000003  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000003  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000013  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000226  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000008  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000008  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000012  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000006  0.000006  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000011  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000225  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000007  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000007  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000010  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000005  0.000005  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000004  0.000004  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000004  0.000004  -0.000224  -0.000002  -0.000006  -0.000002
+
+Touch called
+SearchTrack called in Touch.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+Chase called.
+SearchTrack called in Chase.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In Chase, Ball not detected
+In ChaseTouch, action chosen is Chase, index chosen is: 1
+In ChaseTouch, errors obtained from selected action is:
+errors are:  0.000000  0.000009  0.000004  0.000004  -0.000224  -0.000002  -0.000006  -0.000002
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+
+In RunAction function, run the selected action:  1
+Selected VFClosure.
+VFClosure called.
+Stero called in VFClosure.
+No stereo vision
+Call SearchTrack in VFClosure.
+ul is: -1,   ur is: -1
+In SearchTrack, State is: 3
+In SearchTrack, action index chosen is: 1
+In RunAction function, errors to submit is:
+errors are:  0.000000  0.000009  0.000004  0.000004  -0.000224  -0.000002  -0.000006  -0.000002
